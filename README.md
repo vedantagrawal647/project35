@@ -1,3 +1,4 @@
-to run use  : npm run dev
+npm install
+npm run dev
 
 index page route: /comments
